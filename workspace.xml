@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37d7f5a4-32a9-4c70-a5bf-be2d5034bc5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Issue_Manager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Naveen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Online Store.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/S.M.N.S Senanayake.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contact-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/port1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/port10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/port2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/port3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/port4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/port5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/port6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/port7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/port8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/port9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/half-circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/hashtag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/points1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/points2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/points3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/points4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/react.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/sql(1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/sql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/vitamin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/wave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/whatsapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shapes/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/testi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vedio/video-1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vedio/video-2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/isotope.pkgd.min.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2LOiy72LMK4Sdp2EoL2XepAejWu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37d7f5a4-32a9-4c70-a5bf-be2d5034bc5b" name="Changes" comment="" />
+      <created>1675748781136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675748781136</updated>
+    </task>
+    <servers />
+  </component>
+</project>
